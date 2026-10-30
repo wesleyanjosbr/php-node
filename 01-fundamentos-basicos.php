@@ -8,6 +8,7 @@
 <body>
     <?php
         echo 'Meu nome é Wesley<br>';
+        echo 'Minha idade é 29.<br>';
     ?>
 </body>
 </html>
