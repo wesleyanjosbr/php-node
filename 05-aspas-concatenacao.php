@@ -11,6 +11,7 @@
         echo 'Meu nome é '. $name. '<br>';
         echo "Meu nome é $name<br>";
         echo 'Meu nome é '. $name. 'Minha idade é \'29\'<br>';
+        echo "Meu nome é $name Minha idade é \"29\"<br>";
     ?>
 </body>
 </html>
